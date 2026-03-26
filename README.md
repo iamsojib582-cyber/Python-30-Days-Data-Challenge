@@ -6,37 +6,46 @@ This repository documents my 30-day journey of learning Python, where I practice
 📆 Duration: 30 Days
 🎯 Goal: Master Python fundamentals for Data Analysis
 💡 Focus: Practical coding + real examples
+
 📚 Topics Covered
+
 🔹 Fundamentals
 Variables & Data Types
 Input / Output
 Operators
+
 🔹 Control Flow
 If-Else Conditions
 Loops (for, while)
+
 🔹 Data Structures
 Lists
 Tuples
 Dictionaries
 Sets
 🔹 Functions
+
 Function creation
 Arguments & return values
 🔹 File Handling
 Reading & writing files
+
 CSV handling
 🔹 Libraries
 Pandas (basic)
 NumPy (basic)
+
 📁 Folder Structure
 basics/
 data_structures/
 file_handling/
 mini_projects/
+
 🚀 Mini Projects
 CSV to Excel Converter
 Basic Data Cleaner
 File Processing Scripts
+
 🧠 What I Learned
 Writing clean Python code
 Problem-solving using logic
